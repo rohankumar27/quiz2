@@ -1,7 +1,7 @@
 {
   "name": "rohan_quiz2",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000q\u0000u\u0000i\u0000z\u00002\u0000\r\u0000 \u0000",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +14,14 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^5.13.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohankumar27/quiz2.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rohankumar27/quiz2/issues"
+  },
+  "homepage": "https://github.com/rohankumar27/quiz2#readme"
 }

@@ -7,7 +7,7 @@ const port =  7000;
 app.use(cors());
 app.use(express.json());
 
-const uri="mongodb+srv://rkkumar0115:123@cluster0.6ngzwqy.mongodb.net/?retryWrites=true&w=majority"
+const uri="mongodb+srv://rkkumar0115:123@cluster0.6ngzwqy.mongodb.net/test"
 // const uri="mongodb+srv://rkkumar0115:rkkumar0115@cluster0.6ngzwqy.mongodb.net/test"
 // const uri="mongodb+srv://rkkumar0115:rkkumar0115@cluster0.6ngzwqy.mongodb.net/test";
 
